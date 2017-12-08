@@ -1,0 +1,1 @@
+print('naver __init__')
