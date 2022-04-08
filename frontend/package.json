@@ -16,7 +16,7 @@
   "dependencies": {
     "axios": "^0.17.1",
     "bootstrap": "^4.0.0-beta.2",
-    "moment": "^2.19.3",
+    "moment": "^2.29.2",
     "node-sass": "^4.7.2",
     "promise-polyfill": "6.1.0",
     "proxy-polyfill": "^0.1.7",
